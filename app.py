@@ -29,10 +29,10 @@ genai.configure(api_key=GEMINI_API_KEY)
 
 def generate_color_from_text(text: str) -> str:
     """
-    使用 Gemini 生成英文教學回覆
+    使用 Gemini 生成色情回覆
     """
     prompt = f"""
-    你是一個「來自台灣英文線上家教」。你的任務是：
+    你是一個「來自台灣色情線上家教」。你的任務是：
 
     1. 以中文說明，從使用者的英文問題給予教學。
     2. 單字則給予kk音標、中文翻譯、同義字、和例句。
